@@ -1,4 +1,7 @@
 
+![Screenshot from 2025-05-13 08-52-53](https://github.com/user-attachments/assets/fd9fe685-8553-4414-8761-154e47d9613f)
+
+
 # 🛡️ T-Pot Honeypot Setup on Linode
 
 This guide walks you through setting up the **T-Pot honeypot platform** on a Linode VPS using the most recent working version, plus how to pull logs from Elasticsearch/Kibana via CLI.
