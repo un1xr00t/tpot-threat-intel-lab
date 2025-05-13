@@ -1,6 +1,6 @@
 #!/bin/bash
 
-LOG_PATH="/home/elliot/tpotce/data/cowrie/log/cowrie.json"
+LOG_PATH="/home/yourusername/tpotce/data/cowrie/log/cowrie.json"
 
 if [[ ! -f "$LOG_PATH" ]]; then
   echo -e "\033[0;31m[!] Cowrie JSON log not found at: $LOG_PATH\033[0m"
